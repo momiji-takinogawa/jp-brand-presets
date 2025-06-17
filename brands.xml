@@ -1,0 +1,155 @@
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0"
+         author="momiji-takinogawa"
+         shortdescription="Japanese business brands"
+         description="Presets for Japanese business brands"
+         baselanguage="en">
+
+  <group name="Japanese business brands">
+    <group name="parking">
+      <item name="エイブルパーキング" type="node,closedway,multipolygon">
+        <!-- https://www.ableparking.co.jp/ -->
+        <key key="amenity" value="parking"/>
+        <key key="name" value="エイブルパーキング" />
+        <key key="name:en" value="Able Parking" />
+        <key key="brand" value="エイブルパーキング" />
+        <key key="brand:en" value="Able Parking" />
+        <key key="operator" value="エイブルパーキング" />
+        <key key="operator:type" value="private" />
+        <key key="fee" value="yes"/>
+        <text key="branch" text="Branch" />
+      </item>
+      <item name="Break 24h" type="node,closedway,multipolygon">
+        <!-- https://crest-break24.co.jp/ -->
+        <key key="amenity" value="parking"/>
+        <key key="name" value="ブレイクパーキング" />
+        <key key="name:en" value="Break Parking" />
+        <key key="brand" value="Break 24h" />
+        <key key="operator" value="クレスト" />
+        <key key="operator:type" value="private" />
+        <key key="fee" value="yes"/>
+        <text key="branch" text="Branch" />
+      </item>
+      <item name="COIN PARK" type="node,closedway,multipolygon">
+        <!-- https://www.coinpark.co.jp/ -->
+        <key key="amenity" value="parking"/>
+        <key key="name" value="COIN PARK" />
+        <key key="brand" value="COIN PARK" />
+        <key key="operator" value="コインパーク" />
+        <key key="operator:type" value="private" />
+        <key key="fee" value="yes"/>
+        <text key="branch" text="Branch" />
+      </item>
+      <item name="P.ZONE" type="node,closedway,multipolygon">
+        <!-- https://www.kyokuto-parking.com/coinparking/ -->
+        <key key="amenity" value="parking"/>
+        <key key="name" value="P.ZONE" />
+        <key key="brand" value="P.ZONE" />
+        <key key="operator" value="極東開発" />
+        <key key="operator:type" value="private" />
+        <key key="fee" value="yes"/>
+        <text key="branch" text="Branch" />
+      </item>
+      <item name="OnePark" type="node,closedway,multipolygon">
+        <!-- https://www.ichinenpark.co.jp/ -->
+        <key key="amenity" value="parking"/>
+        <key key="name" value="OnePark" />
+        <key key="brand" value="OnePark" />
+        <key key="operator" value="イチネンパーキング" />
+        <key key="operator:type" value="private" />
+        <key key="fee" value="yes"/>
+        <text key="branch" text="Branch" />
+      </item>
+      <item name="パークアベニュー" type="node,closedway,multipolygon">
+        <!-- https://www.p-avenue.co.jp/ -->
+        <key key="amenity" value="parking"/>
+        <key key="name" value="パークアべニュー" />
+        <key key="name:en" value="PARK AVENUE" />
+        <key key="brand" value="パークアベニュー" />
+        <key key="brand:en" value="PARK AVENUE" />
+        <key key="operator" value="アベニュー" />
+        <key key="operator:type" value="private" />
+        <key key="fee" value="yes"/>
+        <text key="branch" text="Branch" />
+      </item>
+      <item name="Park-it!" type="node,closedway,multipolygon">
+        <!-- https://www.ichinenpark.co.jp/ -->
+        <key key="amenity" value="parking"/>
+        <key key="name" value="Park-it!" />
+        <key key="brand" value="Park-it!" />
+        <key key="operator" value="イチネンパーキング" />
+        <key key="operator:type" value="private" />
+        <key key="fee" value="yes"/>
+        <text key="branch" text="Branch" />
+      </item>
+      <item name="パークジャパン" type="node,closedway,multipolygon">
+        <!-- http://www.parkjapan.com/ -->
+        <key key="amenity" value="parking"/>
+        <key key="name" value="パークジャパン" />
+        <key key="name:en" value="Park Japan" />
+        <key key="brand" value="パークジャパン" />
+        <key key="brand:en" value="Park Japan" />
+        <key key="operator" value="パークジャパン" />
+        <key key="operator:type" value="private" />
+        <key key="fee" value="yes"/>
+        <text key="branch" text="Branch" />
+      </item>
+      <item name="SANパーク" type="node,closedway,multipolygon">
+        <!-- https://sanpark.jp/ -->
+        <key key="amenity" value="parking"/>
+        <key key="name" value="SANパーク" />
+        <key key="name:en" value="SAN Park" />
+        <key key="brand" value="SANパーク" />
+        <key key="brand:en" value="SAN Park" />
+        <key key="operator" value="パイン" />
+        <key key="operator:type" value="private" />
+        <key key="fee" value="yes"/>
+        <text key="branch" text="Branch" />
+      </item>
+      <item name="Systempark" type="node,closedway,multipolygon">
+        <!-- https://sanpark.jp/ -->
+        <key key="amenity" value="parking"/>
+        <key key="name" value="Systempark" />
+        <key key="brand" value="Systempark" />
+        <key key="operator" value="システムパーク" />
+        <key key="operator:type" value="private" />
+        <key key="fee" value="yes"/>
+        <text key="branch" text="Branch" />
+      </item>
+      <item name="ザ・パーク" type="node,closedway,multipolygon">
+        <!-- https://dkparking.com/ -->
+        <key key="amenity" value="parking"/>
+        <key key="name" value="ザ・パーク" />
+        <key key="name:en" value="The Park" />
+        <key key="brand" value="ザ・パーク" />
+        <key key="brand:en" value="The Park" />
+        <key key="operator" value="第一興商" />
+        <key key="operator:type" value="private" />
+        <key key="fee" value="yes"/>
+        <text key="branch" text="Branch" />
+      </item>
+      <item name="東洋カーマックス" type="node,closedway,multipolygon">
+        <!-- http://www.carmax-parking.jp/ -->
+        <key key="amenity" value="parking"/>
+        <key key="name" value="東洋カーマックス" />
+        <key key="name:en" value="Carmax" />
+        <key key="brand" value="東洋カーマックス" />
+        <key key="brand:en" value="Carmax" />
+        <key key="operator" value="東洋カーマックス" />
+        <key key="operator:type" value="private" />
+        <key key="fee" value="yes"/>
+        <text key="branch" text="Branch" />
+      </item>
+      <item name="ユアー・パーキング" type="node,closedway,multipolygon">
+        <!-- https://www.ypark.co.jp/ -->
+        <key key="amenity" value="parking"/>
+        <key key="name" value="ユアー・パーキング" />
+        <key key="name:en" value="Your Parking" />
+        <key key="brand" value="yp" />
+        <key key="operator" value="ユアー・パーキング" />
+        <key key="operator:type" value="private" />
+        <key key="fee" value="yes"/>
+        <text key="branch" text="Branch" />
+      </item>
+    </group>
+  </group>
+</presets>
